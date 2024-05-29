@@ -6,3 +6,7 @@ El almacenamiento en la nube tiene un gran pro comparada con otros tipos de meto
 Las bases de datos entran a escenario cuando tenemos la transicion hacia medios digitales.
 
 ## Tipos de bases de datos
+**Relaciones:** En la industria existen varias companias dedicadas a manejar bases de datos relacionales como SQL Server, Oracle, **MariaDB**, entre otras.
+**No Relacionales:** Todavia estan avanzando y existen ejemplos muy distintos como cassandra, elasticsearch, neo4j, MongoDB, entre otras.
+
+## Servicios
