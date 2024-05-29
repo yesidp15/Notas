@@ -7,6 +7,10 @@ Las bases de datos entran a escenario cuando tenemos la transicion hacia medios 
 
 ## Tipos de bases de datos
 **Relaciones:** En la industria existen varias companias dedicadas a manejar bases de datos relacionales como SQL Server, Oracle, **MariaDB**, entre otras.
-**No Relacionales:** Todavia estan avanzando y existen ejemplos muy distintos como cassandra, elasticsearch, neo4j, MongoDB, entre otras.
+**No Relacionales:** Todavia estan avanzando y existen ejemplos muy distintos como cassandra, elasticsearch, neo4j, MongoDB, Firestone entre otras.
 
 ## Servicios
+**Auto Administrados:** Es la base de datos que instalas tú y te encargas de actualizaciones, mantenimiento, etc.
+**Administrados:** Servicios que ofrecen las nubes modernas como Azure y no debes preocuparte por mantenimiento o actualizaciones.
+
+# Clase 2 - Historia de las bases de datos
